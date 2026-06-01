@@ -1,1 +1,1 @@
-# -DGS-Viewer
+# 3DGS-Viewer
